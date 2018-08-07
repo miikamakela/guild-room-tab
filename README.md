@@ -1,8 +1,8 @@
 # Kiltispiikki
 
+Kiltispiikki is an electronic tab to be used with Rasperry Pi and a touch screen
 
 Kiltispiikki uses 
-
 
 * platform independent python package <emph>Kivy</emph> for the GUI
 * sqlite3 database 
