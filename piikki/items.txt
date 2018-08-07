@@ -1,0 +1,10 @@
+name,price,Item class
+coca-cola,1.0,Soft drink
+twix,0.7,Candy
+mars,0.7,Candy
+sprite,1.0,Soft drink
+tupla,1.0,Candy
+snickers,0.7,Candy
+milky way,0.7,Candy
+noodles,5.1,Food
+kismet,0.8,Candy
